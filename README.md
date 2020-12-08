@@ -9,5 +9,5 @@
 ##############
 
 
-Here I am sharing all the codes, text files and resources required for the course "Introduction to Programming in C Specialization" on Coursera.
+Here I am sharing all the codes, text files and resources required for the courses under "Introduction to Programming in C Specialization" on Coursera.
 Hope these will be helpful.
